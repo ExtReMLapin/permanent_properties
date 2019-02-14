@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_street/mail_dropbox"
+$envmap env_cubemap
+$envmapmask "models\props_street\mail_dropbox_ref"
+$envmaptint "[1 1 1]"
+vertexlitgeneric_HDR_dx9
+{
+$envmaptint "[.8 .8 .8]"
+}
+}

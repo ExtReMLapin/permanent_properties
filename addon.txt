@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Permanent Properties"
+	"version"     "postDRM"
+	"author_name" "[ExtReM] Lapin"
+	"author_url"  "extrem-team.com"
+	"info"        "Perma houses system for DarkRP"
+	"override"    "0"
+}
