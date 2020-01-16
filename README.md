@@ -13,7 +13,7 @@ This release, allows you to do pretty much what you want with it if you're not m
 
 Only the people who bought it on gmodstore/scriptfodder are allowed to make money with it.
 
-A much better version is available here : https://www.gmodstore.com/market/view/4858
+A much better version is available here : https://github.com/ExtReMLapin/ghomes
 
 It fixes pretty much all the issues, better networking code, better math optimization for the rendering of the panel, no harcdoded stuff, every houses have it's own limite/variables/whatever, it's better in every aspects.
 
