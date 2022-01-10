@@ -1,3 +1,5 @@
+pls don't star, i'm ashamed of the code
+
 # permanent_properties
 Properties addon for gmod/darkrp, unupdated for years and turned into spaghetti code
 
